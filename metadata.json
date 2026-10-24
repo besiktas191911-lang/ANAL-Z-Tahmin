@@ -1,0 +1,6 @@
+{
+  "name": "FutbolAI - Günlük 15 Maç Öncesi Analiz & Tahmin Motoru",
+  "description": "Her gün 15 popüler maç için yapay zeka destekli detaylı maç öncesi analizi, taktiksel simülasyonlar, canlı oran hareketleri ve güven endeksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
